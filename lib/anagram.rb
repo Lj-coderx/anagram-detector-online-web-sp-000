@@ -13,4 +13,4 @@ class Anagram
     end
   end
 end
-© 2021 GitHub, Inc.
+
